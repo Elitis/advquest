@@ -34,7 +34,7 @@ echo "&ccc={$u["strCountryCode"]}";
 
 $i = 1;
 
-foreach ($characters as $c){
+while($c = mysql_fetch_array($characters)){
   echo "&id{$i}={$c["ID"]}";
   echo "&char{$i}={$c["charname"]}";
   echo "&level{$i}={$c["level"]}";

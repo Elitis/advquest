@@ -1,5 +1,719 @@
 <?php
 header('content-type: text/xml'); 
 ?>
-<?xml version="1.0" encoding="UTF-8"?>
-<strings xmlns:sql="urn:schemas-microsoft-com:xml-sql" strLastUpdate="6/13/2009 9:37:56 PM"><string><intId>1</intId><strStringCaption>file-death</strStringCaption><strStringValue enc="1">7b3j6g2n5j237e366125593d542k471i4k317b345n1c682e</strStringValue></string><string><intId>2</intId><strStringCaption>file-shop</strStringCaption><strStringValue enc="1">562470346q2n77334p32543a321a651p843k6b2h</strStringValue></string><string><intId>3</intId><strStringCaption>file-petshop</strStringCaption><strStringValue enc="1">5m255n27772q5h19652560275j1g5j1h3k22773360277931742o6g2k6q2n5e1a50334321492h7h3a803g5b1h</strStringValue></string><string><intId>6</intId><strStringCaption>file-magicshop</strStringCaption><strStringValue enc="1">682i6o387c345h195q1q6c2j6f2c5l1j4o367332723d72376225733c6k2d783c7b386c285334583e4k316c25621i6026</strStringValue></string><string><intId>8</intId><strStringCaption>file-defaulttown</strStringCaption><strStringValue enc="1">632d5q2a732m611k5a1a7b3i6a27702p4p376a225m1j661m7j3h3o1l3f1e4p36651p7n3c6m31</strStringValue></string><string><intId>9</intId><strStringCaption>file-noise</strStringCaption><strStringValue enc="1">652g631p3q285i1g68257a3d732n6n333c1f3q275m1f833j783e</strStringValue></string><string><intId>10</intId><strStringCaption>file-genericpack</strStringCaption><strStringValue enc="1">6l2k5j1g6e2c732n5m1e5j1q5n1h462f561b672e6q2o662d6a245n1q5f1o3c1l5m1i753g5e1n6a2b3i1k4m337i3b702g5j1p</strStringValue></string><string><intId>11</intId><strStringCaption>file-limbo</strStringCaption><strStringValue enc="1">6h295i1f6p2e5e1c492i6i2i6n2q5q1p5f1p5m225p1j4o2n4p365l1e7n3c5p24</strStringValue></string><string><intId>12</intId><strStringCaption>file-void</strStringCaption><strStringValue enc="1">5n1d6n2k5q22642c45243m237d36691p6228</strStringValue></string><string><intId>13</intId><strStringCaption>file-batinn</strStringCaption><strStringValue enc="1">6h30672i7c346o2g65256g2n7h3e5d1b3j215q225j1h74323p1p56333b1j702k661m5p24</strStringValue></string><string><intId>14</intId><strStringCaption>file-crossroads</strStringCaption><strStringValue enc="1">4b1p5p1j5d1a7o3h7g395o1i5m1j602b6m33611l4i304n1k5n1k843k6j2h4b2e40264f2n5l1e7q3f743a</strStringValue></string><string><intId>15</intId><strStringCaption>file-guardiantower</strStringCaption><strStringValue enc="1">682i723d7p3h813k65255m226g2d6d2b3d1m6i2n732l5p29722n6h2p65286g306l2j7j3b611p5m1b62296k2e3e1i4m2o3q277n3g6k295o23</strStringValue></string><string><intId>17</intId><strStringCaption>file-guardianarena</strStringCaption><strStringValue enc="1">4o2b692d5b1m63235n1n521967255e1j6e2l593i673h813j622d5n1h5a1i6l2o5d1o7634451l732o632a62205d1o3i1h3h1p5p1i5p1e7339</strStringValue></string><string><intId>18</intId><strStringCaption>file-trainers</strStringCaption><strStringValue enc="1">6b26722k591g6a235l1d3f1o7f376b25551g642778366q367q3k523b631n763d5l1l5m225a1j631m44244d2l6m2f6k297036</strStringValue></string><string><intId>19</intId><strStringCaption>file-nowhere</strStringCaption><strStringValue enc="1">5g1b7h385k206o2h7931422b5b195n1k7f345q235b1i5h1b793g4k2n422a5i1b6i276e2k</strStringValue></string><string><intId>20</intId><strStringCaption>file-jail</strStringCaption><strStringValue enc="1">6b2d672i6o305f1f3q275k1d823i5q25</strStringValue></string><string><intId>21</intId><strStringCaption>file-travelmap</strStringCaption><strStringValue enc="1">7d3c5k247834351e65327731511c6e245b1i5h1h4n314h2m4m2j5a3i742o6i276d2j</strStringValue></string><string><intId>23</intId><strStringCaption>file-boogs</strStringCaption><strStringValue enc="1">5b1g7h3b682j6d2b6k3066256d2a631o3j21561f5c1f7e36702e6a2k6o2l5d1a6l2q5g3j4e2m651p722i551b</strStringValue></string><string><intId>24</intId><strStringCaption>file-lucretia</strStringCaption><strStringValue enc="1">64297m3g5i225n1l7d3k5e1d78357l3f5b3k6f2o682b5m1e621g7k3k7q3h5j2179336q367h39773a652g503440287m3f833j7c3i</strStringValue></string><string><intId>25</intId><strStringCaption>file-thalia</strStringCaption><strStringValue enc="1">551a6k2e6b2m5g1e672e5q1p6a2777314m34793i5k1n79316q2d6j2b5q23511c7f3f74375c1n5139762q7c315i1o</strStringValue></string><string><intId>26</intId><strStringCaption>file-gibets</strStringCaption><strStringValue enc="1">5919621q5j1j5f1c7o3h6d2g4p19543d652a773a5o275k206a22641o432b601k611h6026</strStringValue></string><string><intId>27</intId><strStringCaption>file-rhubarb</strStringCaption><strStringValue enc="1">5i1i7e3b7k3k63206k2d692c703b4j316f3e692d6q2h632d6h317q3k6l345c2f642b6d224k317e376f246i2o</strStringValue></string><string><intId>28</intId><strStringCaption>file-granemor</strStringCaption><strStringValue enc="1">6c2h5h1b5j237f3d72395f1e5p1m621n3h1q6q38793c5o1g7a2o3a1f5339533b6g29671n773d</strStringValue></string><string><intId>29</intId><strStringCaption>file-haunted</strStringCaption><strStringValue enc="1">6f2a732l763d6e276k2c50396d2h581j7j3a5j1h5q1i5i1p5a1i4q33321a712l661m672d</strStringValue></string><string><intId>30</intId><strStringCaption>file-lolosia-town</strStringCaption><strStringValue enc="1">4e1j64217c3c77347k3d672a753g4m345d2g682f6c214f2n5q1j7k395j1p</strStringValue></string><string><intId>31</intId><strStringCaption>file-battleon-town</strStringCaption><strStringValue enc="1">692j6l356k2c813k61215d1k7j3g652340296d256q2n7h365m1k5i3f3o1n3g1o6d26823i6c2i</strStringValue></string><string><intId>32</intId><strStringCaption>file-darkoviamap</strStringCaption><strStringValue enc="1">7b3a561h6a26422b4h23591k7j3d6e2f7g3d6d237b3e6o384k2i4a2i7p3i5q1f6127</strStringValue></string><string><intId>33</intId><strStringCaption>file-sailorboon</strStringCaption><strStringValue enc="1">7d3d7k3h5a1a5c19692262256p394m345j227m3j6f2c6321492h5p1i7i37561c</strStringValue></string><string><intId>34</intId><strStringCaption>file-serial</strStringCaption><strStringValue enc="1">6n2i5q1h632a7m3f671q482h7k3d682f7p3j5c1f612c6n2n773i3a1i5k1d7n3c773d</strStringValue></string><string><intId>35</intId><strStringCaption>file-multiquest</strStringCaption><strStringValue enc="1">65247o3f64247o3g6h2k7i3d6l2c6g2n6i2b6o2g3b1k7635612c5b1e6m2k752p6a226o2l77356m32492c5c3k6a237b306a2g</strStringValue></string><string><intId>36</intId><strStringCaption>file-warroom</strStringCaption><strStringValue enc="1">7e3979306229803k5n1f3g1p521b5q1h651p803j7f3c76357p3e5n23703b6f2b6l2i74324f2n5m1f671n541a</strStringValue></string><string><intId>37</intId><strStringCaption>file-facechooser</strStringCaption><strStringValue enc="1">6g2o7h3k6n37672779365a1f381h6j2p5i225f1o632a4c2l561f6g2k6h2e64217h3a561d7p3j5g3g40287f387h366h2n</strStringValue></string><string><intId>38</intId><strStringCaption>file-serialquest</strStringCaption><strStringValue enc="1">5o1j681q70376l2e7p3h3c1l6j2c7d3k76307b3e723d5j1j5m2p3q283n1p381g7q3j7l3a6g2m</strStringValue></string><string><intId>40</intId><strStringCaption>file-darkovia-war</strStringCaption><strStringValue enc="1">7a2q561h5g1a5b3k5c26571e7j3d6l314g1b5i1b4k1f541f7a3978345538351d7j3c6g256a2g</strStringValue></string><string><intId>41</intId><strStringCaption>file-falerin</strStringCaption><strStringValue enc="1">6g2j7j3c6l2l682f3d1m7238571i5o1o571e7h3b6q325q1o3f1h553d68216e23783e</strStringValue></string><string><intId>42</intId><strStringCaption>file-islehome</strStringCaption><strStringValue enc="1">532b6p2i6828632a4d2m4j267c396c237o3i7b336i25662h631o571f4q2n31197o3h7a2q5n22</strStringValue></string><string><intId>43</intId><strStringCaption>file-crater</strStringCaption><strStringValue enc="1">6823651n6e2l7i3b6l2d3g1p652e6a24783j5q1i5a1h6p2j4e2e391h5k1d7q3f6026</strStringValue></string><string><intId>44</intId><strStringCaption>file-maelstrom</strStringCaption><strStringValue enc="1">6d285k1b6q36641o6l2d3d1m6h2g682j652c5m1m5g196j2b6o2i7c3968275n1j672i5h1b7g3853384n3468216c21682e</strStringValue></string><string><intId>46</intId><strStringCaption>file-clanwar</strStringCaption><strStringValue enc="1">5e19823k5m226n2g5p1h4o36793i5i1i6o385g1e65216i2m501b6i2b6a2h351a4n347f38782o692f</strStringValue></string><string><intId>47</intId><strStringCaption>file-paxia</strStringCaption><strStringValue enc="1">71304q1a5o1k391i6k2g6d2o5l197f3i713c4k2p52354i2q6n2g7a2q5e1k</strStringValue></string><string><intId>52</intId><strStringCaption>file-hunt</strStringCaption><strStringValue enc="1">601m803i6e2l601k601j3g1p5q29672a5d1i783d6e2p71306m326d2h7e3578367d355538523a6q2j7j387c3i</strStringValue></string><string><intId>53</intId><strStringCaption>battleon-zardhunter</strStringCaption><strStringValue enc="1">5j224p19671q762p65256e2l7b386725331c7k365h217b357c3k692d671p7h3f7a326229722n651p6m2q5i1f5h1d5536442c7q3j843k7238</strStringValue></string><string><intId>54</intId><strStringCaption>file-attackmenu</strStringCaption><strStringValue enc="1">6928591g6l2j772p4i306f2q7i3a621l5i226g2p5m1n381h381e593e452b482g5h1a6q2f6i2o</strStringValue></string><string><intId>55</intId><strStringCaption>file-mogloween</strStringCaption><strStringValue enc="1">76316e2561286f285l1d321b742n5n1h692c7b3k60216p2m6a246n2f77316k305m26651o593f3l1j472f7e37803g662c</strStringValue></string><string><intId>56</intId><strStringCaption>folder-paxia</strStringCaption><strStringValue enc="1">5m1i511c7j3775385p294i2k3k20</strStringValue></string><string><intId>57</intId><strStringCaption>file-paxiamap</strStringCaption><strStringValue enc="1">5b1a5k2478343o265f1b763h6i265k1n6l354126472a543c6l2e6e235319</strStringValue></string><string><intId>58</intId><strStringCaption>file-frostvale</strStringCaption><strStringValue enc="1">4e1p712m5p1m77307g387j396b2m7f3f763d4b2k4k1h5d1a7q3f7k3i4e2h533b5p1i813h783e</strStringValue></string><string><intId>59</intId><strStringCaption>file-houseshop</strStringCaption><strStringValue enc="1">7i3d6d245f1m6f287p3h3k225c1g5d1a6p2g762q793g4m346e2771356g2d5l1h7b345f3i4i2q7m3f6c215a1g</strStringValue></string><string><intId>60</intId><strStringCaption>file-housegame</strStringCaption><strStringValue enc="1">79346o2f6d2k7b34803j4p375f1j7h3e702i6k2d5a1h553a5g3g3o256i2b752l5n22</strStringValue></string><string><intId>61</intId><strStringCaption>file-islecourtyard</strStringCaption><strStringValue enc="1">5e196k2b682f7i3b772q4o366p327l3c78367q3i5h1b541b79327p3i5g1j5f1d732m7d377n3k4o355g197q3f5j1p</strStringValue></string><string><intId>62</intId><strStringCaption>file-Inn</strStringCaption><strStringValue enc="1">5o27511c651o752o5a1a6p355i1f7m3k432c66297k3i632146264m2j5a3i6l2e7m3b6f2l</strStringValue></string><string><intId>63</intId><strStringCaption>file-huntressyulgar</strStringCaption><strStringValue enc="1">7g3b722k5n23611l742n4f2o6l2p6n2e6e2c7n3f7e385q267k3d6l2e782m7g376p2p6i2n6f2q77317c3g7h3e78376g2n54374b2j6k2d7g357137</strStringValue></string><string><intId>65</intId><strStringCaption>file-orbquests</strStringCaption><strStringValue enc="1">631p671p551c6g295q1i4p376b23581f6m2l5e1a6m2m6d2k5d1a7j3d551f7831422a6d266k29571d</strStringValue></string><string><intId>66</intId><strStringCaption>file-templehope</strStringCaption><strStringValue enc="1">5i1d6n2e672e6i2b772q3e1n69215b1i62215h1d6424773e7b3h5i1l62206n344d2l752p6j287d3j</strStringValue></string><string><intId>69</intId><strStringCaption>file-temple</strStringCaption><strStringValue enc="1">5m1h732l5a1h5m1f7p3h3i206b236i2p6f2e6d297c3c5e1l5i1e6b2m621n6b234425593h722m792p7137</strStringValue></string><string><intId>70</intId><strStringCaption>temple-max-quest</strStringCaption><strStringValue enc="1">3l1j</strStringValue></string><string><intId>71</intId><strStringCaption>file-deren</strStringCaption><strStringValue enc="1">5b1a622d732q50397038793g76305o246g2e4k2k3f1n742o621i743a</strStringValue></string><string><intId>72</intId><strStringCaption>file-templeportal</strStringCaption><strStringValue enc="1">6p2k601i5j1q742o671q351e6c2473375j1q3k1i422a702k792p682e</strStringValue></string><string><intId>73</intId><strStringCaption>sinister7</strStringCaption><strStringValue enc="1">7b366i295a1h6f28722l422b5n1g652875335l1o7k3d5m1e5q26601l5f3e5n1q6a287c346j2d5f1c4f2n6l2e5n1c6026</strStringValue></string><string><intId>74</intId><strStringCaption>file-sinister7</strStringCaption><strStringValue enc="1">6b26823k6m327k3d5p1h523b641o7c3f7a3862256l2e7g385q267i3c4d2c492h7n3g702g662c</strStringValue></string><string><intId>76</intId><strStringCaption>file-ballyhoo</strStringCaption><strStringValue enc="1">7530712j62296n2g7e363c1l5q29612c7h3h5p1p6k27793d6825662353383o1n451l5b3j7q3j5q1f5h1n</strStringValue></string><string><intId>77</intId><strStringCaption>file-seekerpromo</strStringCaption><strStringValue enc="1">6k2f7m3d571e7c357q3i492i6b246m326k307e3f7239732o77335f196f2c642368257b34702j5d1o5h1b7a324e2m7j3c601g7b3h</strStringValue></string><string><intId>78</intId><strStringCaption>file-valencia-swapper</strStringCaption><strStringValue enc="1">5q2q651n6o347d366h29371g642q6g305c1c5j1q6624793i5l1o521d4e2d4k315k1d6f245g1m</strStringValue></string><string><intId>79</intId><strStringCaption>file-dragonclaw-town</strStringCaption><strStringValue enc="1">7231753g732q4q387b3j5p1j551g5a1f5f1c6c2a5p275c1c6o387m3b4022361e621m6o2d7a3g</strStringValue></string><string><intId>80</intId><strStringCaption>file-omega</strStringCaption><strStringValue enc="1">742q7i3971386e275m1e3j21763e62295m1c6j2g7j3a7b35793g6i2c3f1g3k215k1d7m3b5m21</strStringValue></string><string><intId>81</intId><strStringCaption>file-moralcompass</strStringCaption><strStringValue enc="1">5p1o5n1k6b25602b5h1h571g7f3c63227430602b722m7n3g563e5p1i611h6a2g</strStringValue></string><string><intId>82</intId><strStringCaption>file-mountthrall</strStringCaption><strStringValue enc="1">5f1e793k7l3h3j216h2g75327c336a285q1i6i2a7b3f6h2b6l355i1i5l1l432b6q2j681o6c2i</strStringValue></string><string><intId>83</intId><strStringCaption>file-orderreturns</strStringCaption><strStringValue enc="1">722o6q2h5p255m1f722l4029672469235f1n6b2i5h1b7c36753c5m1e7e355i1c6j2h752p573f5q1j823i591f</strStringValue></string><string><intId>84</intId><strStringCaption>file-DevourerSaga</strStringCaption><strStringValue enc="1">65205k1b5q26661q7830462f5j20662d6n2d63205p1g7i3c6e2l7f395031482g7b346o2d642a</strStringValue></string><string><intId>85</intId><strStringCaption>file-dragonwars</strStringCaption><strStringValue enc="1">6h2c7g375c1j5l1e671q351e662e631o5h21591e7j3g601p823i6b2m5p1j5k1d492e4226341c7l3e631j642a</strStringValue></string><string><intId>86</intId><strStringCaption>file-dracopyre</strStringCaption><strStringValue enc="1">7h3c6f265a1h6c257f374p37642c7m3g531e5a1j5o1l7m3i843i621n551c7e3e753c54195d1o6e2n7b2p45253j205h1a5n1c6h2n</strStringValue></string><string><intId>87</intId><strStringCaption>file-generaltower</strStringCaption><strStringValue enc="1">742q6n2e571e601k631m3m246g2l591g5n1l531a6b25581j7a3a6b2368257i37692g7e384e2j4j2n3a1i7q3j5m1b5o23</strStringValue></string><string><intId>88</intId><strStringCaption>file-Gatta</strStringCaption><strStringValue enc="1">7d386b22763d7c35722l4b2k542e5n275h197j3b5b1m5a28632e793e5g20371f621m6h265d1j</strStringValue></string><string><intId>89</intId><strStringCaption>file-status</strStringCaption><strStringValue enc="1">6c25651o6l35661p5k1b7k3d6j2c742i7e37732m6f2m6q2p4d2i42284p367a337h366i2o</strStringValue></string><string><intId>90</intId><strStringCaption>file-fujin</strStringCaption><strStringValue enc="1">641q7k3b6c2j5o1h7m3e3e1n5i1o6a215b1d7b3e6624621q5j1h6q364p366k2d843k5p24</strStringValue></string><string><intId>91</intId><strStringCaption>file-Zorbak</strStringCaption><strStringValue enc="1">6q2l5q1h541b762q6820331c6c335h1e601l5g1q5o2878394019692c692h5b1i5i1f5k1b5m1e391e51334g2o67207d32682e</strStringValue></string><string><intId>92</intId><strStringCaption>bit-voidchange</strStringCaption><strStringValue enc="1">5n22511c7d3d641o551c</strStringValue></string><string><intId>93</intId><strStringCaption>bit-resistboundchange</strStringCaption><strStringValue enc="1">6e267h3b621k632a</strStringValue></string><string><intId>94</intId><strStringCaption>file-portals</strStringCaption><strStringValue enc="1">611n7k3b541b5m1f611k482h6d2e6e2h622063285g1o5j1g5j1i5m1i78355o1i6o2g541f7a3a7p3i553d6m2f742k5i1o</strStringValue></string><string><intId>95</intId><strStringCaption>file-dragonblade</strStringCaption><strStringValue enc="1">7o3j6l2c7d3k7c357h395b3k6j306l2f783j6k2p7h3e5l1j591j6b2b5c1n672f6i2p5839472f6e27671n763c</strStringValue></string><string><intId>96</intId><strStringCaption>file-dragonslayerclass</strStringCaption><strStringValue enc="1">6l2g742m6q366d265h19573g6l325f19733e5o22682568267n3g6q2q531e702e72395m1g4k2l4m336e276o2d5b1h</strStringValue></string><string><intId>97</intId><strStringCaption>file-paxia-defend</strStringCaption><strStringValue enc="1">5k1g6j33611g6326591k4029763e6l315l205e1l7k3i5p1i6i2p381b4e2m5k1d7i375d1j</strStringValue></string><string><intId>98</intId><strStringCaption>file-Trescol</strStringCaption><strStringValue enc="1">7g3b7o3f5a1h5j1c6820391i6j2f733079337l3d6p396p2p3g1p7d356p2j5f1m7a336m345m1j743441297h3a661m5f1l</strStringValue></string><string><intId>99</intId><strStringCaption>file-kairula</strStringCaption><strStringValue enc="1">7h3c7l3c5d1k69227f3750395n1j7j3g5m1g722l773i5g1g593i7i3j6a2l783b6m2g7a3175356q3a3m1q3i1q7a336c215l20</strStringValue></string><string><intId>100</intId><strStringCaption>bit-spellchange</strStringCaption><strStringValue enc="1">6i2o5l255p1p6b24561d</strStringValue></string><string><intId>101</intId><strStringCaption>file-hallofmemories</strStringCaption><strStringValue enc="1">6l2g7d345m227h3a7p3h331c6i2m723d6d2d63236b286n325g1f6g2n6p2o6i2f5m1g6f2i6e2l7a33553d6m2f6q2f763c</strStringValue></string><string><intId>102</intId><strStringCaption>file-mogbusters</strStringCaption><strStringValue enc="1">7b367g375n2379326o2g4m346l2k5l1i6l2q5g1q7i396m2f68205b1i6h2b7d365p2n793g6n2f452d69225n1c6o33</strStringValue></string><string><intId>103</intId><strStringCaption>file-alteon</strStringCaption><strStringValue enc="1">713c7333621l5p256d2a6n2l452e671q712p7g357c3a5136351d6b246n2c6g2m</strStringValue></string><string><intId>104</intId><strStringCaption>file-shipbridge</strStringCaption><strStringValue enc="1">5e284h21513a5b1l7l3f6629713954196h2o533b7o3h6g256b2h</strStringValue></string><string><intId>105</intId><strStringCaption>file-hangar</strStringCaption><strStringValue enc="1">632o4e1p3j215q385i225f1d60255i22641p50386720752l6c2i</strStringValue></string><string><intId>106</intId><strStringCaption>file-engineering</strStringCaption><strStringValue enc="1">4j1d582j5b3k5l216k2i6o32682b5o1m5f1m5d1k5q1k6f2i5b196q343m23742o752l773d</strStringValue></string><string><intId>107</intId><strStringCaption>file-sickbay</strStringCaption><strStringValue enc="1">4l1f582j3c1l6m2f6a2d733c6526571h5q2a681m331b6a237g35783e</strStringValue></string><string><intId>108</intId><strStringCaption>file-holodeck</strStringCaption><strStringValue enc="1">531o5g30331c7n3d5i1c6e2m783f692i76374h2p803k5p1e6b2h</strStringValue></string><string><intId>109</intId><strStringCaption>file-shiptower</strStringCaption><strStringValue enc="1">5f295m36371g6i3c4e1o7q3i5n1k7p3e5m226721361e6f286q2f5e1k</strStringValue></string><string><intId>110</intId><strStringCaption>file-WFmap</strStringCaption><strStringValue enc="1">5q1p6k347g3c573g6h3b3q1a652e672b763h7d37611k4h2p6821641k541a</strStringValue></string><string><intId>111</intId><strStringCaption>file-WFfacechooser</strStringCaption><strStringValue enc="1">6g2o5b1e743f7j3j7a37652a3p27591f501b6m346k303m245k226l2p5g1d5c19621m5c1j69234o1i4k2441295i1b651l682e</strStringValue></string><string><intId>112</intId><strStringCaption>file-live</strStringCaption><strStringValue enc="1"></strStringValue></string><string><intId>113</intId><strStringCaption>file-live-1</strStringCaption><strStringValue enc="1">6d287m3d6f2m7q3j7p3h492i6c2m531a813k631j6l3172396o2m6d2k6d27541a6g2j6l2j551g6i2i3l22732n752l6p34</strStringValue></string><string><intId>114</intId><strStringCaption>file-live-2</strStringCaption><strStringValue enc="1">6l2g7q3h5m2278316f27391i6d2n662d5q1i651l6h2o5n2369276k307832571d6i2l7i3g672i5k1k4c2g3b1j5q1j6d227b3h</strStringValue></string><string><intId>115</intId><strStringCaption>file-live-3</strStringCaption><strStringValue enc="1">7o3j6o2f72397932762p4b2k551f793g7l3d5m1b6b2i682f5d1b5o2477315g1m5j1m5l1j521d5l1l381b492h6b246d227d3j</strStringValue></string><string><intId>116</intId><strStringCaption>file-live-4</strStringCaption><strStringValue enc="1">7c376j2a5c1j78317a323g1p632d6l316c24752l793g5l217j3h5o24621n7e3k5h1k712q703b7i3i5537553d601k5q1f7a3g</strStringValue></string><string><intId>117</intId><strStringCaption>file-live-5</strStringCaption><strStringValue enc="1">722o5k1b551c722m7p3h4c2l6h30763d5m1e5p1e6j2q561d6g2e6h2o5q1k612760237g3e6i326p2p44253b1j6k2d7f347e3k</strStringValue></string><string><intId>118</intId><strStringCaption>file-live-6</strStringCaption><strStringValue enc="1">6i2d7i39773e702k7j3b371g6n36753c6d257k395p256g2n7634581f6m2g662c5n1q6g2e652g73334i2i50386n2g7l3a5m21</strStringValue></string></strings>
+<?xml version="1.0" encoding="UTF-8"?> 
+<strings xmlns:sql="urn:schemas-microsoft-com:xml-sql" strLastUpdate="1/31/2011 3:31:52 AM">
+
+<string> 
+<intId>1</intId> 
+<strStringCaption>file-death</strStringCaption> 
+<strStringValue enc="0">death2AF.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>2</intId> 
+<strStringCaption>file-shop</strStringCaption> 
+<strStringValue enc="0">Shop20.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>3</intId> 
+<strStringCaption>file-petshop</strStringCaption> 
+<strStringValue enc="0">battleon-petshop38.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>6</intId> 
+<strStringCaption>file-magicshop</strStringCaption> 
+<strStringValue enc="0">battleon-magicshop56.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>8</intId> 
+<strStringCaption>file-defaulttown</strStringCaption> 
+<strStringValue enc="0">battleon-town112.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>9</intId> 
+<strStringCaption>file-noise</strStringCaption> 
+<strStringValue enc="0">aq-noise3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>10</intId> 
+<strStringCaption>file-genericpack</strStringCaption> 
+<strStringValue enc="0">monster-generic-pack4.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>11</intId> 
+<strStringCaption>file-limbo</strStringCaption> 
+<strStringValue enc="0">town-limber7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>12</intId> 
+<strStringCaption>file-void</strStringCaption> 
+<strStringValue enc="0">void7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>13</intId> 
+<strStringCaption>file-batinn</strStringCaption> 
+<strStringValue enc="0">battleon-inn75.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>14</intId> 
+<strStringCaption>file-crossroads</strStringCaption> 
+<strStringValue enc="0">Crossroads-Town30.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>15</intId> 
+<strStringCaption>file-guardiantower</strStringCaption> 
+<strStringValue enc="0">battleon-guardiantower24.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>17</intId> 
+<strStringCaption>file-guardianarena</strStringCaption> 
+<strStringValue enc="0">Challenge-GuardianArena7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>18</intId> 
+<strStringCaption>file-trainers</strStringCaption> 
+<strStringValue enc="0">quest-trainer-select6.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>19</intId> 
+<strStringCaption>file-nowhere</strStringCaption> 
+<strStringValue enc="0">quest-nowhere4.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>20</intId> 
+<strStringCaption>file-jail</strStringCaption> 
+<strStringValue enc="0">jail.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>21</intId> 
+<strStringCaption>file-travelmap</strStringCaption> 
+<strStringValue enc="0">map-Travel137.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>23</intId> 
+<strStringCaption>file-boogs</strStringCaption> 
+<strStringValue enc="0">granemor-cityboog5.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>24</intId> 
+<strStringCaption>file-lucretia</strStringCaption> 
+<strStringValue enc="0">granemor-citylucretia2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>25</intId> 
+<strStringCaption>file-thalia</strStringCaption> 
+<strStringValue enc="0">granemor-citythalia.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>26</intId> 
+<strStringCaption>file-gibets</strStringCaption> 
+<strStringValue enc="0">lolosia-gibets2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>27</intId> 
+<strStringCaption>file-rhubarb</strStringCaption> 
+<strStringValue enc="0">lolosia-RhubarbNew.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>28</intId> 
+<strStringCaption>file-granemor</strStringCaption> 
+<strStringValue enc="0">granemor-city10.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>29</intId> 
+<strStringCaption>file-haunted</strStringCaption> 
+<strStringValue enc="0">quest-haunted2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>30</intId> 
+<strStringCaption>file-lolosia-town</strStringCaption> 
+<strStringValue enc="0">Lolosia-New.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>31</intId> 
+<strStringCaption>file-battleon-town</strStringCaption> 
+<strStringValue enc="0">battleon-town112.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>32</intId> 
+<strStringCaption>file-darkoviamap</strStringCaption> 
+<strStringValue enc="0">map-Darkovia10.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>33</intId> 
+<strStringCaption>file-sailorboon</strStringCaption> 
+<strStringValue enc="0">lolosia-boon.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>34</intId> 
+<strStringCaption>file-serial</strStringCaption> 
+<strStringValue enc="0">quest-seriala.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>35</intId> 
+<strStringCaption>file-multiquest</strStringCaption> 
+<strStringValue enc="0">multiquest-mainstone3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>36</intId> 
+<strStringCaption>file-warroom</strStringCaption> 
+<strStringValue enc="0">quest-customweapon.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>37</intId> 
+<strStringCaption>file-facechooser</strStringCaption> 
+<strStringValue enc="0">dialog-face-chooser6.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>38</intId> 
+<strStringCaption>file-serialquest</strStringCaption> 
+<strStringValue enc="0">quest-serialN-4.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>40</intId> 
+<strStringCaption>file-darkovia-war</strStringCaption> 
+<strStringValue enc="0">war-WereVsVamp3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>41</intId> 
+<strStringCaption>file-falerin</strStringCaption> 
+<strStringValue enc="0">isle-falerin5.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>42</intId> 
+<strStringCaption>file-islehome</strStringCaption> 
+<strStringValue enc="0">Isle-Courtyard10.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>43</intId> 
+<strStringCaption>file-crater</strStringCaption> 
+<strStringValue enc="0">quest-crater6.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>44</intId> 
+<strStringCaption>file-maelstrom</strStringCaption> 
+<strStringValue enc="0">quest-maelstrompart1.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>46</intId> 
+<strStringCaption>file-clanwar</strStringCaption> 
+<strStringValue enc="0">quest-clanphase1.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>47</intId> 
+<strStringCaption>file-paxia</strStringCaption> 
+<strStringValue enc="0">map-paxia13.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>52</intId> 
+<strStringCaption>file-hunt</strStringCaption> 
+<strStringValue enc="0">quest-biggamehunt3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>53</intId> 
+<strStringCaption>battleon-zardhunter</strStringCaption> 
+<strStringValue enc="0">battleon-zardhuntershop11.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>54</intId> 
+<strStringCaption>file-attackmenu</strStringCaption> 
+<strStringValue enc="0">menu-attack-010.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>55</intId> 
+<strStringCaption>file-mogloween</strStringCaption> 
+<strStringValue enc="0">quest-trickortreat10.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>56</intId> 
+<strStringCaption>folder-paxia</strStringCaption> 
+<strStringValue enc="0">paxia4/</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>57</intId> 
+<strStringCaption>file-paxiamap</strStringCaption> 
+<strStringValue enc="0">map-paxia13.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>58</intId> 
+<strStringCaption>file-frostvale</strStringCaption> 
+<strStringValue enc="0">Frostvale-Town3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>59</intId> 
+<strStringCaption>file-houseshop</strStringCaption> 
+<strStringValue enc="0">quest-house-shops3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>60</intId> 
+<strStringCaption>file-housegame</strStringCaption> 
+<strStringValue enc="0">quest-house19.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>61</intId> 
+<strStringCaption>file-islecourtyard</strStringCaption> 
+<strStringValue enc="0">quest-huntressintro.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>62</intId> 
+<strStringCaption>file-Inn</strStringCaption> 
+<strStringValue enc="0">battleon-inn75.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>63</intId> 
+<strStringCaption>file-huntressyulgar</strStringCaption> 
+<strStringValue enc="0">quest-huntressyulgarhome3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>65</intId> 
+<strStringCaption>file-orbquests</strStringCaption> 
+<strStringValue enc="0">quest-templeorbs.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>66</intId> 
+<strStringCaption>file-templehope</strStringCaption> 
+<strStringValue enc="0">quest-templefind.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>69</intId> 
+<strStringCaption>file-temple</strStringCaption> 
+<strStringValue enc="0">quest-templepart5.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>70</intId> 
+<strStringCaption>temple-max-quest</strStringCaption> 
+<strStringValue enc="0">8</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>71</intId> 
+<strStringCaption>file-deren</strStringCaption> 
+<strStringValue enc="0">map-deren6.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>72</intId> 
+<strStringCaption>file-templeportal</strStringCaption> 
+<strStringValue enc="0">quest-the8.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>73</intId> 
+<strStringCaption>sinister7</strStringCaption> 
+<strStringValue enc="0">quest-sinister7intro.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>74</intId> 
+<strStringCaption>file-sinister7</strStringCaption> 
+<strStringValue enc="0">quest-sinister7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>76</intId> 
+<strStringCaption>file-ballyhoo</strStringCaption> 
+<strStringValue enc="0">quest-ballyhoo19.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>77</intId> 
+<strStringCaption>file-seekerpromo</strStringCaption> 
+<strStringValue enc="0">quest-seekerpromostart.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>78</intId> 
+<strStringCaption>file-valencia-swapper</strStringCaption> 
+<strStringValue enc="0">Quest-Valencia7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>79</intId> 
+<strStringCaption>file-dragonclaw-town</strStringCaption> 
+<strStringValue enc="0">map-dragonclaw4.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>80</intId> 
+<strStringCaption>file-omega</strStringCaption> 
+<strStringValue enc="0">quest-devourer7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>81</intId> 
+<strStringCaption>file-moralcompass</strStringCaption> 
+<strStringValue enc="0">moralcompass.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>82</intId> 
+<strStringCaption>file-mountthrall</strStringCaption> 
+<strStringValue enc="0">map-mountthrall.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>83</intId> 
+<strStringCaption>file-orderreturns</strStringCaption> 
+<strStringValue enc="0">quest-orderreturns.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>84</intId> 
+<strStringCaption>file-DevourerSaga</strStringCaption> 
+<strStringValue enc="0">quest-devourer7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>85</intId> 
+<strStringCaption>file-dragonwars</strStringCaption> 
+<strStringValue enc="0">quest-dragonwars19.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>86</intId> 
+<strStringCaption>file-dracopyre</strStringCaption> 
+<strStringValue enc="0">quest-dracopyrelegacy11.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>87</intId> 
+<strStringCaption>file-generaltower</strStringCaption> 
+<strStringValue enc="0">quest-generaltower20.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>88</intId> 
+<strStringCaption>file-Gatta</strStringCaption> 
+<strStringValue enc="0">quest-GattaSaga.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>89</intId> 
+<strStringCaption>file-status</strStringCaption> 
+<strStringValue enc="0">statussystem23.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>90</intId> 
+<strStringCaption>file-fujin</strStringCaption> 
+<strStringValue enc="0">quest-fujinone.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>91</intId> 
+<strStringCaption>file-Zorbak</strStringCaption> 
+<strStringValue enc="0">quest-ZorbakHideout23.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>92</intId> 
+<strStringCaption>bit-voidchange</strStringCaption> 
+<strStringValue enc="0">false</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>93</intId> 
+<strStringCaption>bit-resistboundchange</strStringCaption> 
+<strStringValue enc="0">true</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>94</intId> 
+<strStringCaption>file-portals</strStringCaption> 
+<strStringValue enc="0">quest-kingdomportals.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>95</intId> 
+<strStringCaption>file-dragonblade</strStringCaption> 
+<strStringValue enc="0">quest-dragonblade9.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>96</intId> 
+<strStringCaption>file-dragonslayerclass</strStringCaption> 
+<strStringValue enc="0">quest-dragonslayer5.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>97</intId> 
+<strStringCaption>file-paxia-defend</strStringCaption> 
+<strStringValue enc="0">paxia-defense3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>98</intId> 
+<strStringCaption>file-Trescol</strStringCaption> 
+<strStringValue enc="0">quest-portal-trescol.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>99</intId> 
+<strStringCaption>file-kairula</strStringCaption> 
+<strStringValue enc="0">quest-portal-kairula2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>100</intId> 
+<strStringCaption>bit-spellchange</strStringCaption> 
+<strStringValue enc="0">true</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>101</intId> 
+<strStringCaption>file-hallofmemories</strStringCaption> 
+<strStringValue enc="0">quest-hallofmemories16.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>102</intId> 
+<strStringCaption>file-mogbusters</strStringCaption> 
+<strStringValue enc="0">quest-mogbustersSet.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>103</intId> 
+<strStringCaption>file-alteon</strStringCaption> 
+<strStringValue enc="0">alteon-town25.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>104</intId> 
+<strStringCaption>file-shipbridge</strStringCaption> 
+<strStringValue enc="0">WF-bridge26.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>105</intId> 
+<strStringCaption>file-hangar</strStringCaption> 
+<strStringValue enc="0">WF-Hangar10.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>106</intId> 
+<strStringCaption>file-engineering</strStringCaption> 
+<strStringValue enc="0">WF-engineering7.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>107</intId> 
+<strStringCaption>file-sickbay</strStringCaption> 
+<strStringValue enc="0">WF-sickbay9.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>108</intId> 
+<strStringCaption>file-holodeck</strStringCaption> 
+<strStringValue enc="0">WF-vrdeck8.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>109</intId> 
+<strStringCaption>file-shiptower</strStringCaption> 
+<strStringValue enc="0">WF-WGtower15.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>110</intId> 
+<strStringCaption>file-WFmap</strStringCaption> 
+<strStringValue enc="0">map-WFchart.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>111</intId> 
+<strStringCaption>file-WFfacechooser</strStringCaption> 
+<strStringValue enc="0">dialog-face-chooserWF3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>112</intId> 
+<strStringCaption>file-live</strStringCaption> 
+<strStringValue enc="0"></strStringValue> 
+</string> 
+ 
+<string> 
+<intId>113</intId> 
+<strStringCaption>file-live-1</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>114</intId> 
+<strStringCaption>file-live-2</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal2.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>115</intId> 
+<strStringCaption>file-live-3</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal3.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>116</intId> 
+<strStringCaption>file-live-4</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal4.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>117</intId> 
+<strStringCaption>file-live-5</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal5.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>118</intId> 
+<strStringCaption>file-live-6</strStringCaption> 
+<strStringValue enc="0">quest-betweenerfinal6.2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>119</intId> 
+<strStringCaption>file-fixit</strStringCaption> 
+<strStringValue enc="0">quest-fixit2011-01a.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>120</intId> 
+<strStringCaption>file-deathWF</strStringCaption> 
+<strStringValue enc="0">deathWF.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>121</intId> 
+<strStringCaption>file-ShearhideWF</strStringCaption> 
+<strStringValue enc="0">war-ShearhideWF2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>122</intId> 
+<strStringCaption>file-satiren</strStringCaption> 
+<strStringValue enc="0">WF-Satiren8.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>123</intId> 
+<strStringCaption>file-assassin</strStringCaption> 
+<strStringValue enc="0">Quest-AssassinClass3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>124</intId> 
+<strStringCaption>file-tlapd</strStringCaption> 
+<strStringValue enc="0">quest-PirateTalk09.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>125</intId> 
+<strStringCaption>file-BFsaga</strStringCaption> 
+<strStringValue enc="0">quest-bizarreflecks11.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>126</intId> 
+<strStringCaption>file-bizarreflecks</strStringCaption> 
+<strStringValue enc="0">quest-bizarreflecks11.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>127</intId> 
+<strStringCaption>file-eclipsus</strStringCaption> 
+<strStringValue enc="0">quest-eclipsus2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>128</intId> 
+<strStringCaption>file-DracopyreRace</strStringCaption> 
+<strStringValue enc="0">quest-DracopyreRace3.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>129</intId> 
+<strStringCaption>quest-seekratMain.swf</strStringCaption> 
+<strStringValue enc="0">file-Seekrat</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>130</intId> 
+<strStringCaption>file-Seekrat</strStringCaption> 
+<strStringValue enc="0">quest-seekratMain2.swf</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>131</intId> 
+<strStringCaption>quest-seekratMain2.swf</strStringCaption> 
+<strStringValue enc="0">file-Seekrat</strStringValue> 
+</string> 
+ 
+<string> 
+<intId>132</intId> 
+<strStringCaption>file-REUSEME</strStringCaption> 
+<strStringValue enc="0"></strStringValue> 
+</string> 
+ 
+<string> 
+<intId>133</intId> 
+<strStringCaption>file-REUSEMETOO.swf</strStringCaption> 
+<strStringValue enc="0"></strStringValue> 
+</string> 
+ 
+<string> 
+<intId>134</intId> 
+<strStringCaption>file-promos</strStringCaption> 
+<strStringValue enc="0">quest-ballyhoopromos2.swf</strStringValue> 
+</string>

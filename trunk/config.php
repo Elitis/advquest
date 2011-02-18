@@ -1,7 +1,7 @@
 <?php
 $dhost = "localhost"; //usually localhost, or ip
 $dusername = "root"; // database user
-$dpassword = ""; // database pass
+$dpassword = "raselm"; // database pass
 $ddatabase = "aq"; // database name
 
 $con = mysql_connect($dhost, $dusername, $dpassword) or die("Cannot Connect"); 
